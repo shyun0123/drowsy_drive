@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="알람음_선택">
+        <item> 기본 알람음 (기상 나팔) </item>
+        <item> 기본 알람음 (전자 알람) </item>
+        <item> 기본 알람음 (아날로그 알람) </item>
+    </string-array>
+
+</resources>
